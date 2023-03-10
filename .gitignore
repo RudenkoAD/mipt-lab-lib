@@ -1,0 +1,6 @@
+venv/
+mipt_lab_lib.egg-info/
+**/pycache/
+**/__pycache__/
+dist/
+build/
